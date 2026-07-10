@@ -42,9 +42,9 @@
   - Open Source Contributions
   - Tech Collaborations
 
-📧 **Email:** your-email@example.com
+📧 **Email:** vimalraj637737@gmail.com
 
-🌐 **Portfolio:** https://your-portfolio.com
+🌐 **Portfolio:** [https://your-portfolio.com](https://vimalraj-portfolio-1.netlify.app/)
 
 ---
 
