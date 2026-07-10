@@ -3,7 +3,7 @@
 ## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="30" /> About Me
 
 - 🎓 *Final Year B.Tech Information Technology* Student
-  <img src="https://github.com/venkat-venkat-080206/venkat-venkat-080206/blob/main/cubeAnimation.gif" min-width="350px" max-width="350px" width="450" align="right"/>
+  <img src="https://github.com/vimal-vimal-0315/vimal-vimal-0315/blob/main/giphy%20(1).gif" min-width="350px" max-width="350px" width="450" align="right"/>
 
 - 💻 *Aspiring Software Engineer* focused on designing scalable applications and solving real-world problems through technology.
 
