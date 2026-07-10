@@ -1,86 +1,118 @@
-## Hi there 👋 I'm Vimal Raj
+<!-- ==================== Banner ==================== -->
 
-## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="30" /> About Me
+<p align="center">
+  <img src="https://github.com/vimal-vimal-0315/vimal-vimal-0315/blob/main/Ananya01Agrawal%20-%20Overview.jpg" width="100%" alt="Vimal Raj Banner"/>
+</p>
 
-- 🎓 **Final Year B.Tech Artificial Intelligence & Data Science (AI & DS) Student**
-  <img src="https://github.com/vimal-vimal-0315/vimal-vimal-0315/blob/main/giphy%20(2).gif" min-width="350px" max-width="350px" width="450" align="right"/>
+<!-- ==================== Typing Animation ==================== -->
 
-- 💻 **Aspiring Software Engineer** passionate about building scalable, secure, and high-performance applications with modern technologies.
+<h1 align="center">Hi 👋, I'm Vimal Raj</h1>
 
-- 🚀 Enthusiastic about **Full Stack Development, Artificial Intelligence, Data Science, Machine Learning,** and creating impactful software solutions.
-
-- 🔥 **Technical Interests**
-  - Software Development Engineering (SDE)
-  - Full Stack Web Development
-  - Artificial Intelligence & Machine Learning
-  - Data Science & Data Analytics
-  - Backend Development & REST APIs
-  - Cloud Computing & DevOps
-
-- 📚 **Currently Learning**
-  - React.js
-  - PHP & MySQL
-  - Python
-  - JavaScript (ES6+)
-  - REST APIs
-  - Git & GitHub
-
-- 🎯 **Career Objective**
-  - To build innovative, production-ready software and AI-powered applications while continuously improving my technical expertise and contributing to real-world projects.
-
-- 💡 **Core Values**
-  - Continuous Learning
-  - Clean & Maintainable Code
-  - Problem Solving
-  - Team Collaboration
-  - Innovation & Creativity
-
-- 🤝 **Open to**
-  - Software Development Internships
-  - AI & Data Science Projects
-  - Full Stack Development Opportunities
-  - Open Source Contributions
-  - Tech Collaborations
-
-📧 **Email:** vimalraj637737@gmail.com
-
-🌐 **Portfolio:** [https://your-portfolio.com](https://vimalraj-portfolio-1.netlify.app/)
-
----
-
-## 🚀 Languages & Tools
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" height="45"/>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="45" height="45"/>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=800&color=3B82F6&center=true&vCenter=true&width=900&lines=AI+%26+Data+Science+Student;Full+Stack+Developer;Software+Engineer+Aspirant;Python+%7C+React+%7C+PHP;Always+Learning+New+Things..." />
 </p>
 
 ---
 
-## ⚡ Connect With Me
+# 🚀 About Me
 
-<p align="left">
+<img align="right" width="350" src="https://github.com/vimal-vimal-0315/vimal-vimal-0315/blob/main/giphy%20(2).gif"/>
+
+🎓 Final Year **B.Tech Artificial Intelligence & Data Science**
+
+💻 Passionate about building scalable Web Applications
+
+🤖 Exploring Artificial Intelligence & Machine Learning
+
+📊 Interested in Data Analytics & Business Intelligence
+
+🌱 Currently learning
+
+- React.js
+- Python
+- PHP
+- MySQL
+- REST APIs
+- Git & GitHub
+
+🎯 Goal
+
+Become a Software Engineer building AI-powered applications that solve real-world problems.
+
+---
+
+# 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,php,react,js,html,css,mysql,mongodb,git,github,vscode,figma"/>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=vimal-vimal-0315&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://streak-stats.demolab.com?user=vimal-vimal-0315&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vimal-vimal-0315&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=vimal-vimal-0315&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
 <a href="https://www.linkedin.com/in/vimal-raj-959801309">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://github.com/vimal-vimal-0315">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://vimalraj-portfolio-1.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=firefox"/>
 </a>
 
-<a href="mailto:your-email@example.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:vimalraj637737@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
+
 </p>
 
-⭐ *"Turning ideas into intelligent software solutions through innovation, continuous learning, and clean code."*
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=vimal-vimal-0315&style=for-the-badge&color=3B82F6"/>
+
+</p>
+
+---
+
+<h3 align="center">
+
+💙 *"Turning ideas into intelligent software solutions through innovation, continuous learning, and clean code."*
+
+</h3>
