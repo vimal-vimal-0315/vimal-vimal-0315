@@ -1,63 +1,175 @@
-<!-- ==================== Banner ==================== -->
+<!-- ====================================================== -->
+<!--                     HERO BANNER                        -->
+<!-- ====================================================== -->
 
 <p align="center">
-  <img src="https://github.com/vimal-vimal-0315/vimal-vimal-0315/blob/main/Ananya01Agrawal%20-%20Overview.jpg" width="100%" alt="Vimal Raj Banner"/>
+<img src="https://github.com/vimal-vimal-0315/vimal-vimal-0315/blob/main/Ananya01Agrawal%20-%20Overview.jpg" width="100%">
 </p>
 
-<!-- ==================== Typing Animation ==================== -->
+<h1 align="center">
+Hi 👋 I'm Vimal Raj
+</h1>
 
-<h1 align="center">Hi 👋, I'm Vimal Raj</h1>
+<h3 align="center">
+AI & Data Science Student • Full Stack Developer • Software Engineer Aspirant
+</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=800&color=3B82F6&center=true&vCenter=true&width=900&lines=AI+%26+Data+Science+Student;Full+Stack+Developer;Software+Engineer+Aspirant;Python+%7C+React+%7C+PHP;Always+Learning+New+Things..." />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Student;Full+Stack+Developer;Python+Developer;React+Developer;Building+AI+Powered+Applications;Always+Learning+New+Technologies"/>
+
 </p>
 
 ---
 
-# 🚀 About Me
+# 💫 About Me
 
-<img align="right" width="350" src="https://github.com/vimal-vimal-0315/vimal-vimal-0315/blob/main/giphy%20(2).gif"/>
+<img align="right" width="360" src="https://github.com/vimal-vimal-0315/vimal-vimal-0315/blob/main/giphy%20(2).gif"/>
 
-🎓 Final Year **B.Tech Artificial Intelligence & Data Science**
+🎓 Final Year B.Tech Artificial Intelligence & Data Science
 
-💻 Passionate about building scalable Web Applications
+💻 Passionate Full Stack Developer
 
-🤖 Exploring Artificial Intelligence & Machine Learning
+🤖 Interested in AI, Machine Learning & Data Science
 
-📊 Interested in Data Analytics & Business Intelligence
+🌐 Building Modern Responsive Websites
 
-🌱 Currently learning
+📊 Data Analytics Enthusiast
+
+🚀 Love creating real-world software solutions
+
+🌱 Currently Learning
 
 - React.js
 - Python
 - PHP
 - MySQL
-- REST APIs
-- Git & GitHub
+- REST API
+- GitHub Actions
 
-🎯 Goal
+🎯 Career Goal
 
-Become a Software Engineer building AI-powered applications that solve real-world problems.
+Become a Software Engineer creating intelligent applications that improve people's lives.
 
 ---
 
-# 🛠 Tech Stack
+# ⚡ Tech Stack
 
-<p align="center">
+### Languages
 
-<img src="https://skillicons.dev/icons?i=python,php,react,js,html,css,mysql,mongodb,git,github,vscode,figma"/>
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,php,javascript,html,css"/>
+
+</p>
+
+### Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind"/>
+
+</p>
+
+### Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=php,nodejs"/>
+
+</p>
+
+### Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+
+</p>
+
+### Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman"/>
 
 </p>
 
 ---
 
-# 📊 GitHub Stats
+# 🚀 Currently Working On
+
+✅ AI Powered Web Applications
+
+✅ PHP & MySQL Projects
+
+✅ React Portfolio
+
+✅ Machine Learning
+
+✅ GitHub Automation
+
+---
+
+# 🌟 Featured Projects
+
+## 🍽 ALFA Frozen
+
+Premium Frozen Food Ecommerce Website
+
+✔ Responsive Design
+
+✔ Shopping Cart
+
+✔ Invoice System
+
+✔ Order Tracking
+
+✔ Admin Dashboard
+
+---
+
+## 💼 Personal Portfolio
+
+Modern Portfolio Website
+
+✔ Responsive
+
+✔ EmailJS
+
+✔ Smooth Animations
+
+✔ Dark UI
+
+---
+
+## 🏢 Interior Website
+
+Professional Interior Design Website
+
+✔ Modern UI
+
+✔ Image Gallery
+
+✔ Contact System
+
+✔ Mobile Optimized
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=vimal-vimal-0315&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vimal-vimal-0315&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="48%" src="https://streak-stats.demolab.com?user=vimal-vimal-0315&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vimal-vimal-0315&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimal-vimal-0315&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -77,7 +189,17 @@ Become a Software Engineer building AI-powered applications that solve real-worl
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=vimal-vimal-0315&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=vimal-vimal-0315&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-frame=true"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/vimal-vimal-0315/vimal-vimal-0315/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
@@ -88,20 +210,28 @@ Become a Software Engineer building AI-powered applications that solve real-worl
 <p align="center">
 
 <a href="https://www.linkedin.com/in/vimal-raj-959801309">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
 </a>
 
 <a href="https://vimalraj-portfolio-1.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=firefox"/>
+
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
+
 </a>
 
 <a href="mailto:vimalraj637737@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
 </a>
 
 </p>
 
 ---
+
+# 👀 Profile Views
 
 <p align="center">
 
@@ -111,8 +241,14 @@ Become a Software Engineer building AI-powered applications that solve real-worl
 
 ---
 
-<h3 align="center">
+<h2 align="center">
 
-💙 *"Turning ideas into intelligent software solutions through innovation, continuous learning, and clean code."*
+💙 Turning Ideas Into Intelligent Software Solutions
 
-</h3>
+</h2>
+
+<p align="center">
+
+⭐ Thanks for visiting my profile ⭐
+
+</p>
