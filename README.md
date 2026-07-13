@@ -1,254 +1,135 @@
-<!-- ====================================================== -->
-<!--                     HERO BANNER                        -->
-<!-- ====================================================== -->
+# 👨‍💻 About Me
 
-<p align="center">
-<img src="https://github.com/vimal-vimal-0315/vimal-vimal-0315/blob/main/Ananya01Agrawal%20-%20Overview.jpg" width="100%">
-</p>
+<table>
+<tr>
 
-<h1 align="center">
-Hi 👋 I'm Vimal Raj
-</h1>
+<td width="65%">
 
-<h3 align="center">
-AI & Data Science Student • Full Stack Developer • Software Engineer Aspirant
-</h3>
+```yaml
+Name        : Vimal Raj
+Education   : B.Tech Artificial Intelligence & Data Science
+Year        : Final Year
+Role        : Full Stack Developer
+Interest    : AI • Machine Learning • Web Development
+Focus       : Scalable Web Applications
+Learning    : React.js • Python • PHP • MySQL • REST APIs
+Goal        : Software Engineer
+```
 
-<p align="center">
+### 🚀 What I Do
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Student;Full+Stack+Developer;Python+Developer;React+Developer;Building+AI+Powered+Applications;Always+Learning+New+Technologies"/>
+- Build responsive and modern web applications
+- Develop AI-powered software solutions
+- Design clean and user-friendly interfaces
+- Explore Data Analytics & Business Intelligence
+- Continuously improve coding and problem-solving skills
 
-</p>
+### 🎯 Career Vision
 
----
+> To become a Software Engineer building innovative AI-powered products that solve real-world challenges.
 
-# 💫 About Me
+</td>
 
-<img align="right" width="360" src="https://github.com/vimal-vimal-0315/vimal-vimal-0315/blob/main/giphy%20(2).gif"/>
+<td align="center">
 
-🎓 Final Year B.Tech Artificial Intelligence & Data Science
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="320"/>
 
-💻 Passionate Full Stack Developer
+</td>
 
-🤖 Interested in AI, Machine Learning & Data Science
-
-🌐 Building Modern Responsive Websites
-
-📊 Data Analytics Enthusiast
-
-🚀 Love creating real-world software solutions
-
-🌱 Currently Learning
-
-- React.js
-- Python
-- PHP
-- MySQL
-- REST API
-- GitHub Actions
-
-🎯 Career Goal
-
-Become a Software Engineer creating intelligent applications that improve people's lives.
+</tr>
+</table>
 
 ---
+# 🚀 Current Focus
 
-# ⚡ Tech Stack
+<table>
 
-### Languages
+<tr>
 
-<p>
+<td>🤖 AI & Machine Learning</td>
 
-<img src="https://skillicons.dev/icons?i=python,php,javascript,html,css"/>
+<td>████████░░ 80%</td>
 
-</p>
+</tr>
 
-### Frontend
+<tr>
 
-<p>
+<td>⚛ React.js</td>
 
-<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind"/>
+<td>███████░░░ 70%</td>
 
-</p>
+</tr>
 
-### Backend
+<tr>
 
-<p>
+<td>🐍 Python</td>
 
-<img src="https://skillicons.dev/icons?i=php,nodejs"/>
+<td>█████████░ 90%</td>
 
-</p>
+</tr>
 
-### Database
+<tr>
 
-<p>
+<td>🐘 PHP</td>
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+<td>████████░░ 80%</td>
 
-</p>
+</tr>
 
-### Tools
+<tr>
 
-<p>
+<td>🗄 MySQL</td>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman"/>
+<td>████████░░ 80%</td>
 
-</p>
+</tr>
 
----
-
-# 🚀 Currently Working On
-
-✅ AI Powered Web Applications
-
-✅ PHP & MySQL Projects
-
-✅ React Portfolio
-
-✅ Machine Learning
-
-✅ GitHub Automation
-
----
-
+</table>
 # 🌟 Featured Projects
 
-## 🍽 ALFA Frozen
-
-Premium Frozen Food Ecommerce Website
-
-✔ Responsive Design
-
-✔ Shopping Cart
-
-✔ Invoice System
-
-✔ Order Tracking
-
-✔ Admin Dashboard
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🍽 **ALFA Frozen** | Premium Frozen Food E-Commerce Website | PHP • MySQL • JavaScript |
+| 💼 **Portfolio Website** | Personal Portfolio with Modern UI & Animations | React • HTML • CSS |
+| 🏢 **Interior Website** | Professional Interior Design Business Website | PHP • Bootstrap |
+| 🧾 **Invoice Management** | Invoice Generation & Print System | PHP • MySQL |
 
 ---
-
-## 💼 Personal Portfolio
-
-Modern Portfolio Website
-
-✔ Responsive
-
-✔ EmailJS
-
-✔ Smooth Animations
-
-✔ Dark UI
-
----
-
-## 🏢 Interior Website
-
-Professional Interior Design Website
-
-✔ Modern UI
-
-✔ Image Gallery
-
-✔ Contact System
-
-✔ Mobile Optimized
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vimal-vimal-0315&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vimal-vimal-0315&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimal-vimal-0315&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vimal-vimal-0315&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=vimal-vimal-0315&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-frame=true"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/vimal-vimal-0315/vimal-vimal-0315/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-# 🌐 Connect With Me
+# 🌐 Let's Connect
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/vimal-raj-959801309">
-
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-<a href="https://vimalraj-portfolio-1.netlify.app/">
-
-<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
-
-</a>
-
-<a href="mailto:vimalraj637737@gmail.com">
-
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-
-</a>
-
-</p>
-
 ---
-
-# 👀 Profile Views
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=vimal-vimal-0315&style=for-the-badge&color=3B82F6"/>
+<img src="https://komarev.com/ghpvc/?username=vimal-vimal-0315&style=for-the-badge&color=0e75b6"/>
 
 </p>
 
----
-
 <h2 align="center">
 
-💙 Turning Ideas Into Intelligent Software Solutions
+💻 "Building intelligent solutions with clean code, creativity, and continuous learning."
 
 </h2>
 
 <p align="center">
 
-⭐ Thanks for visiting my profile ⭐
+⭐ If you like my work, consider giving a star to my repositories ⭐
 
 </p>
+<a href="https://vimalraj-portfolio-1.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="mailto:vimalraj637737@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+
+---
